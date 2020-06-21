@@ -1,9 +1,9 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
+title: 'Frontend Engineer'
+company: 'Rizort'
 location: 'Northeastern University'
-range: 'Jan - April 2018'
+range: 'Jan - July 2019'
 url: 'https://web.northeastern.edu/scout/'
 ---
 

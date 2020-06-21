@@ -94,7 +94,7 @@ const mixins = {
 
   bigButton: css`
     color: ${colors.green};
-    background-color: transparent;
+    background-color: ${colors.transGreen};
     border: 1px solid ${colors.green};
     border-radius: ${theme.borderRadius};
     padding: 1.25rem 1.75rem;

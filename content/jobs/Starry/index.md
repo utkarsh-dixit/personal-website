@@ -1,7 +1,7 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
+title: 'Google Summer of Code'
+company: 'Google Summer of Code'
 location: 'Boston, MA'
 range: 'July - Dec 2016'
 url: 'https://starry.com/'

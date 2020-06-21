@@ -1,6 +1,6 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
+title: 'IDT Labs'
 company: 'MullenLowe'
 location: 'Boston, MA'
 range: 'July - Dec 2015'
