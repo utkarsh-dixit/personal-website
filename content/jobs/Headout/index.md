@@ -12,4 +12,4 @@ url: 'https://www.upstatement.com/'
 - Improved Headout website performance by optimizing webpack, infra, react codebase.
 - Created Universal Design System at Headout for web and react native. Storybook, Tailwind, React. Presentation. <a HREF="https://docs.google.com/presentation/d/1pMLSApj1Wab5yOgRDQjVjVh3C6cZ7U_8WDqwfs-6BFc/edit?usp=sharing">Link to Slide</a>
 - [WIP] Impleted vendor extranet. <a HREF="https://docs.google.com/presentation/d/1pMLSApj1Wab5yOgRDQjVjVh3C6cZ7U_8WDqwfs-6BFc/edit?usp=sharing">Link to Slide</a>
-- Handled interviewing candidates for FE roles.
+- Part of interviewing team for FE roles.
