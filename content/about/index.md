@@ -8,13 +8,14 @@ skills:
   - PHP
   - Node.js
   - Drupal
-  - MySQL/Mongo
+  - MySQL
   - GCP/AWS
   - Webpack
+  - NextJS
   - Learning - Go/Elixir
 ---
 
-Hello! I'm Himany, a full stack software engineer based in Bangalore/Jaipur.
+Hello! I'm Himanshu, a full stack software engineer based in Bangalore/Jaipur.
 
 I enjoy creating things that provide meaningful dent in the universe, whether if be a website, application, or small scripts. My goal is to create beautiful interfaces that solve problems.
 
