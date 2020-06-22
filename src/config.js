@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Himanshu Dixit | Full stack Software Engineer, Product guy',
   siteDescription:
-    'Himanshu Dixit is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Himanshu Dixit is a software engineer based in BLR, India who specializes in building (and occasionally designing) E2E products.',
   siteKeywords: 'Himanshu Dixit, Full stack engineer, Frontend Engineer, Product guy, Bangalore',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://himanshudixit.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-51200421-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
