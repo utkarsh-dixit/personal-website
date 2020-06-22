@@ -1,13 +1,12 @@
 ---
 date: '2'
 title: 'Social API'
-cover: './demo.png'
+cover: './social_api.png'
 external: 'https://www.drupal.org/project/social_api'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Drupal
+  - Oauth
+  - Rest
 showInProjects: true
 ---
 

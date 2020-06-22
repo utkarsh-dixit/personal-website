@@ -1,14 +1,14 @@
 ---
-date: '2017-08-01'
-title: 'Interventions'
+date: '2013-08-01'
+title: 'DownloadPlaza.in'
 github: ''
-external: 'https://interventions.design/'
+external: 'https://downloadplaza.in'
 tech:
   - Jekyll
   - SCSS
   - JS
-company: 'Scout'
+company: ''
 showInProjects: false
 ---
 
-Interactive marketing website for Northeastern's first annual student-led design conference, Interventions.
+A website that allowed user to share and download MP3 songs and torrent.,

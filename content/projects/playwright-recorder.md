@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2020-11-12'
 title: 'Pupetter Playwright Recorder'
 github: 'https://github.com/crusherdev/puppeteer-playwright-test-recorder'
 tech:

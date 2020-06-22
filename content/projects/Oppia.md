@@ -1,5 +1,5 @@
 ---
-date: '2018-12-29'
+date: '2016-12-29'
 title: 'Oppia Simple Editor'
 github: 'https://github.com/oppia/oppia/tree/simple-editor'
 tech:

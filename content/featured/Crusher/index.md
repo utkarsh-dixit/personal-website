@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Crusher.dev'
-cover: './octoprofile.png'
+cover: './crusher.png'
 external: 'https://crusher.dev'
 tech:
   - AWS

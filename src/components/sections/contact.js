@@ -34,7 +34,7 @@ const StyledHeading = styled(Heading)`
 `;
 const StyledTitle = styled.h4`
   margin: 0 0 20px;
-  font-size: 60px;
+  font-size: 48px;
   ${media.desktop`font-size: 50px;`};
   ${media.tablet`font-size: 40px;`};
 `;

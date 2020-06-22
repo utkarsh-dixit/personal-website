@@ -1,12 +1,11 @@
 ---
-date: '2017-12-01'
+date: '2015-12-01'
 title: 'Fighter Jet VR'
 github: ''
 external: 'https://www.apk4now.com/apk/201269/fighter-jet-vr-cardboard'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - Unity
+  - Cardboard SDK
 company: 'Apple'
 showInProjects: true
 ---

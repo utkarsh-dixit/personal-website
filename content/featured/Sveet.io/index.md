@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Sveet.io'
-cover: './halcyon.png'
+cover: './sveet.png'
 external: 'https://imgur.com/a/0zeJJ8f'
 tech:
   - React
