@@ -42,7 +42,7 @@ const StyledMetadata = styled.div`
 `;
 const StyledGitHubLink = styled.a`
   color: ${colors.lightSlate};
-  font-size: 12px;
+  font-size: 10px;
   padding: 10px;
 `;
 const StyledGitHubInfo = styled.div`
@@ -106,20 +106,7 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed by Brittany Chiang</div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+          <div>Designed by Brittany</div>
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
