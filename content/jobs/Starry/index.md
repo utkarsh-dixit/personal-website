@@ -1,12 +1,13 @@
 ---
 date: '2016-12-21'
-title: 'Google Summer of Code'
+title: 'Student Developer'
 company: 'Google Summer of Code'
-location: 'Boston, MA'
+location: 'Remote'
 range: 'July - Dec 2016'
 url: 'https://starry.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Spent 3 months expanding the Social integration exosystem at Drupal.
+- Created and extended drupal for Social API which is social module ecosystem of Drupal CMS.
+- Responsible for architecting the new system. Created a common interface for creating modules related to user authentication using
+  accounts from external providers. Collecting data, implementing auto posting functionalities using D8 Hooks.

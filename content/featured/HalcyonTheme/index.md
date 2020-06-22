@@ -1,16 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Sveet.io'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://imgur.com/a/0zeJJ8f'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - Golan
+  - MySQL
+  - AdobeXD
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A startup based in New Delhi, India. Allowed user to order food thru their smartphone. Cafe owners used it to increase customer repetition and increasing returning visitors by providing offers.

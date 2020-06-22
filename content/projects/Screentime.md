@@ -1,15 +1,13 @@
 ---
 date: '2016-11-01'
-title: 'Screentime 2.0'
+title: 'Wishup.co'
 github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+external: 'https://wishup.co'
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
+  - NextJS
+  - AdobeXD
 company: 'Starry'
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+Developed Marketing website for startup in New Delhi. Used NextJS for server side generation.

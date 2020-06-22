@@ -1,8 +1,8 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+title: 'Fighter Jet VR'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://www.apk4now.com/apk/201269/fighter-jet-vr-cardboard'
 tech:
   - MusicKit.js
   - JS
@@ -11,4 +11,4 @@ company: 'Apple'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+A Virtual Reality game for android made using Cardboard SDK and Unitry Game Enginer.

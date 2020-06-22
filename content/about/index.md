@@ -3,17 +3,23 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Kotlin/Java (Moderate)
   - React
-  - Vue
+  - PHP
   - Node.js
-  - WordPress
+  - Drupal
+  - MySQL/Mongo
+  - GCP/AWS
+  - Webpack
+  - Learning - Go/Elixir
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Himany, a full stack software engineer based in Bangalore/Jaipur.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy creating things that provide meaningful dent in the universe, whether if be a website, application, or small scripts. My goal is to create beautiful interfaces that solve problems.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently I'm working at Headout, where I majorly work with creating system and interfaces for travellers who like exploring the world.
+
+I have worked with 4 startups in past, and have learned various things about Design, Engineering and SEO.
 
 Here are a few technologies I've been working with recently:

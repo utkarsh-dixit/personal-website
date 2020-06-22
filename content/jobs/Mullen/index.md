@@ -1,12 +1,11 @@
 ---
 date: '2015-12-21'
-title: 'IDT Labs'
-company: 'MullenLowe'
+title: 'Full stack Engineer'
+company: 'IDTLabs.xyz'
 location: 'Boston, MA'
-range: 'July - Dec 2015'
+range: 'Aug - Nov 2017'
 url: 'https://us.mullenlowe.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Responsible for leveraging technologies and shifting tech stack from Drupal 7 to Drupal 8 for Careers.sl.
+- Creating new optimized UX for job seekers with slow internet connection.

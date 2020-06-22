@@ -1,15 +1,13 @@
 ---
 date: '2019-11-12'
-title: 'Social API'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'Pupetter Playwright Recorder'
+github: 'https://github.com/crusherdev/puppeteer-playwright-test-recorder'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Chrome Extension
+  - Pug
+  - React
+
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Chrome extension allows to created puppetter and playwright scripts seamless without writing code.

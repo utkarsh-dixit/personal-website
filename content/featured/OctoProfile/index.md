@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Crusher.dev'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+external: 'https://crusher.dev'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - AWS
+  - GCP
+  - NextJS
+  - Typescript
+  - Next
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Creating an E2E codeless visual and flow testing tool. Crusher simplifies the test creation, monitoring and testing by integrating with your exisitng worflow. In plan - API testing, Perf/SEO Testing, Codeless app testing.

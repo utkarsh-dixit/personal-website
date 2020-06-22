@@ -1,6 +1,6 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
+title: 'Crusher.dev'
 github: 'https://github.com/bchiang7/OctoProfile'
 external: 'https://OctoProfile.now.sh'
 tech:

@@ -7,6 +7,9 @@ range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Developed End to End multi website configuration system. Django Admin, Kotlin, React, ImmutableJs.
+- Handled E2E revamp of checkout page.
+- Improved Headout website performance by optimizing webpack, infra, react codebase.
+- Created Universal Design System at Headout for web and react native. Storybook, Tailwind, React. Presentation. <a HREF="https://docs.google.com/presentation/d/1pMLSApj1Wab5yOgRDQjVjVh3C6cZ7U_8WDqwfs-6BFc/edit?usp=sharing">Link to Slide</a>
+- [WIP] Impleted vendor extranet. <a HREF="https://docs.google.com/presentation/d/1pMLSApj1Wab5yOgRDQjVjVh3C6cZ7U_8WDqwfs-6BFc/edit?usp=sharing">Link to Slide</a>
+- Handled interviewing candidates for FE roles.

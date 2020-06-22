@@ -1,9 +1,8 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Social API'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.drupal.org/project/social_api'
 tech:
   - React
   - Node.js
@@ -12,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+The Social API harmonizes authentication with external services in Drupal, providing an extensible module that allows integration of modules for user authentication, autoposting, and any tasks that require authentication with external providers.
