@@ -1,13 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Student Developer'
+date: '2019-07-06'
+title: 'Mentor'
 company: 'Google Summer of Code'
 location: 'Remote'
-range: 'July - Dec 2016'
+range: 'July - Sept 2019'
 url: 'https://starry.com/'
 ---
 
-- Spent 3 months expanding the Social integration exosystem at Drupal.
-- Created and extended drupal for Social API which is social module ecosystem of Drupal CMS.
-- Responsible for architecting the new system. Created a common interface for creating modules related to user authentication using
-  accounts from external providers. Collecting data, implementing auto posting functionalities using D8 Hooks.
+- Spent 3 months mentoring a college student to complete his project regarding refractoring SOcial API.

@@ -7,6 +7,7 @@ tech:
   - Drupal
   - Oauth
   - Rest
+  - Symfony
 showInProjects: true
 ---
 

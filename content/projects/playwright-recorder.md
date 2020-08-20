@@ -6,6 +6,7 @@ tech:
   - Chrome Extension
   - Pug
   - React
+  - Playwright
 
 showInProjects: true
 ---

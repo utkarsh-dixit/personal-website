@@ -9,18 +9,18 @@ skills:
   - Node.js
   - Drupal
   - MySQL
-  - GCP/AWS
+  - GCP
   - Webpack
   - NextJS
-  - Learning - Go/Elixir
+  - React Native
+  - Android
+  - Avatar
 ---
 
-Hello! I'm Himanshu, a full stack software engineer based in Bangalore/Jaipur.
+Hello! I'm Utkarsh, a self-taught full stack programmer who is always excited to get his hands dirty to build something interesting.
 
-I enjoy creating things that provide meaningful dent in the universe, whether if be a website, application, or small scripts. My goal is to create beautiful interfaces that solve problems.
+I enjoy working on projects in a team full of excited people like me rather than working alone.
 
-Currently I'm working at Headout, where I majorly work with creating system and interfaces for travellers who like exploring the world.
+I have worked in Headout as intern for 6 months and have also won Google Code In as Grand Prize Winner.
 
-I have worked with 4 startups in past, and have learned various things about Design, Engineering and SEO.
-
-Here are a few technologies I've been working with recently:
+Below are the technologies I have worked with:-

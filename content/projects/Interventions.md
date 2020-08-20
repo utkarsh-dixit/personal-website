@@ -8,7 +8,7 @@ tech:
   - SCSS
   - JS
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A website that allowed user to share and download MP3 songs and torrent.,

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="990d2f5c-8a51-4f44-b0b9-623684683d56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/me.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/me.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/featured/Crusher/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/featured/Crusher/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/featured/Social API/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/featured/Social API/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/featured/Sveet.io/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/featured/Sveet.io/sveet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/hero/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/hero/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/GSOC/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/jobs/GSOC/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/Headout/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/jobs/Headout/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/IDT/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/Rizort/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/Sveet/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/AMFM.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/AMFM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Discoveri.xyz.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/Discoveri.xyz.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/FighterJetVR.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/FighterJetVR.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Headout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Interventions.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/Interventions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Oppia.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Rootco.work.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Sveet.io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/Wishup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/playwright-recorder.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/playwright-recorder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icons/formattedIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/formattedIcon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icons/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icons/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gLRbdZZPTuoVTUPALLBRZev64B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/about" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/about" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990d2f5c-8a51-4f44-b0b9-623684683d56" name="Default Changelist" comment="" />
+      <created>1597891958441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597891958441</updated>
+      <workItem from="1597891959495" duration="12240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="707" y="362" width="567" height="390" key="#Images" timestamp="1597895119726">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="707" y="362" width="567" height="390" key="#Images/72.27.1848.1053@72.27.1848.1053" timestamp="1597895119726" />
+    <state x="687" y="292" width="618" height="580" key="find.popup" timestamp="1597899958305">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="687" y="292" width="618" height="580" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1597899958305" />
+  </component>
+</project>

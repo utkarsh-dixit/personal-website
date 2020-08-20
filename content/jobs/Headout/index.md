@@ -1,15 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Full Stack Engineer'
+date: '2019-11-04'
+title: 'Software Intern'
 company: 'Headout'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+location: 'Bangalore, IN'
+range: 'Nov 2019 - June 2020'
+url: 'https://www.headout.com/'
 ---
 
-- Developed End to End multi website configuration system. Django Admin, Kotlin, React, ImmutableJs.
-- Handled E2E revamp of checkout page.
-- Improved Headout website performance by optimizing webpack, infra, react codebase.
-- Created Universal Design System at Headout for web and react native. Storybook, Tailwind, React. Presentation. <a HREF="https://docs.google.com/presentation/d/1pMLSApj1Wab5yOgRDQjVjVh3C6cZ7U_8WDqwfs-6BFc/edit?usp=sharing">Link to Slide</a>
-- [WIP] Impleted vendor extranet. <a HREF="https://docs.google.com/presentation/d/1pMLSApj1Wab5yOgRDQjVjVh3C6cZ7U_8WDqwfs-6BFc/edit?usp=sharing">Link to Slide</a>
-- Part of interviewing team for FE roles.
+- Integrated react-native into web, android and iOS projects to create a single project to minimise development effort and ensure consistent UI in all three platforms.
+- Optimized build time of android app by 60%
+- Created a CI/CD pipeline for the android app.
+- Integrate complete seatmap book flow in the android app.

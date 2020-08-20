@@ -1,33 +1,38 @@
 module.exports = {
-  siteTitle: 'Himanshu Dixit | Full stack Software Engineer, Product guy',
+  siteTitle: 'Utkarsh Dixit Dixit | Full stack Software Engineer',
   siteDescription:
-    'Himanshu Dixit is a software engineer based in BLR, India who specializes in building (and occasionally designing) E2E products.',
-  siteKeywords: 'Himanshu Dixit, Full stack engineer, Frontend Engineer, Product guy, Bangalore',
-  siteUrl: 'https://himanshudixit.me',
+    'Utkarsh Dixit is self-taught full stack programmer who is always excited to get his hands dirty to build something interesting.',
+  siteKeywords:
+    'UTkarsh Dixit, Full stack engineer, Frontend Engineer, React Native Developer, Jaipur',
+  siteUrl: 'http://utkarsh.work',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-51200421-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Himanshu Dixit',
-  location: 'BLR, India',
-  email: 'hello@himanshudixit.me',
-  github: 'https://github.com/himanshu-dixit',
-  twitterHandle: '@1x_engineer',
+  name: 'Utkarsh Dixit',
+  location: 'Jaipur, India',
+  email: 'utkarshdix02@gmail.com',
+  github: 'https://github.com/utkarsh-dixit',
+  twitterHandle: '@letmecodeamigo',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/himanshu-dixit',
+      url: 'https://github.com/utkarsh-dixit',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ishimanshudixit',
+      url: 'https://www.linkedin.com/in/isutkarshdixit',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/1x_engineer',
+      url: 'https://www.instagram.com/utkarsh3403',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/1x_engineer',
+      url: 'https://twitter.com/letmecodeamigo',
+    },
+    {
+      name: 'Stackoverflow',
+      url: 'https://stackoverflow.com/users/3857918/utkarsh-dixit',
     },
   ],
 
@@ -35,10 +40,6 @@ module.exports = {
     {
       name: 'About',
       url: '/#about',
-    },
-    {
-      name: 'Wiki',
-      url: 'https://wiki.himanshudixit.me',
     },
     {
       name: 'Experience',

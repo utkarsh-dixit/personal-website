@@ -6,7 +6,7 @@ external: 'https://www.apk4now.com/apk/201269/fighter-jet-vr-cardboard'
 tech:
   - Unity
   - Cardboard SDK
-company: 'Apple'
+company: 'Tapnar'
 showInProjects: true
 ---
 

@@ -8,6 +8,7 @@ tech:
   - GCP
   - NextJS
   - Typescript
+  - BullJS
   - Next
 showInProjects: true
 ---
